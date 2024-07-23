@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "sapphire",
+
+  "key": {
+    "#": {
+      "item": "verycoolmod:sapphire"
+    },
+
+    "D": {
+      "item": "minecraft:diamond"
+    }
+  },
+
+  "pattern": [
+    "###",
+    "#D#",
+    "###"
+  ],
+
+  "result": {
+    "count": 1,
+    "id": "verycoolmod:sapphire_block"
+  }
+}
